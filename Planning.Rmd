@@ -1,0 +1,30 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+## 1 ) Identification du theme
+
+*Theme : Covid-19 et les campagnes de vaccinations*
+
+2) Principale question de recherche
+
+Reponse : Quel est le niveau d'efficacite des vaccins dans les pays les plus touches par la pandemie? 
+
+3) Questions secondaires
+   
+   3.1 ) Quel est le pourcentage des gens qui ont ete vaccine ?  
+   
+   3.2) Est ce que les cas du covid ont ete reduit apres les campagnes de vaccination? 
+   
+   3.3) Est-ce que les gens ont repris le trvail apres avoir ete vaccines ?
+   
+4) Graphiques et statisques
+
+   4.1) Nuage de point mettant en relation la vitesse de propagation de la pandemie et les campagnes de vaccination
+   
+   4.2) Diagramme en baton relationnelle entre ...... 
+   
+5) Presentation des sources et de la liste des variable 
+les sources de donnees : OMS , 
+Les variables : Nombre de cas de covid rencenses dans les pays( avant le lancement des campagnes de vaccination), taux de deces par pays (Avant les campagnes de vaccination) nombres de total de vaccination , Nombre de cas de covid dans les pays (apres le lancement des campagnes de vaccination),taux de deces par pays (Apres les campagnes de vaccination).
